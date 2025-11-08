@@ -1,0 +1,10 @@
+title: Tokeni Bets
+description: "A bare-bones journal of analyses and predictions."
+baseurl: ""        # important for a user site: leave empty
+url: "https://tokenibets.github.io"
+
+markdown: kramdown
+timezone: America/New_York
+
+# Keep posts categorized by their subfolders under _posts
+permalink: /:categories/:year/:month/:day/:title/
