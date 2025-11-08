@@ -8,5 +8,5 @@ permalink: /
 
 A bare-bones journal.
 
-- [Analysis](/analyses/)
+- [Analyses](/analyses/)
 - [Predictions](/predictions/)
