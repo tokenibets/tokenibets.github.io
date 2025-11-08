@@ -6,7 +6,7 @@ permalink: /predictions/
 
 # Predictions
 
-{% assign posts = site.posts | where_exp: "p", "p.tags contains 'prediction' or p.tags contains 'predictions' or p.title contains 'Prediction' or p.title contains 'Predictions' or p.title contains 'prediction' or p.title contains 'predictions' or p.categories contains 'predictions'" %}
+{% assign posts = site.categories.prediction %}
 {% if posts and posts.size > 0 %}
   {% assign posts_sorted = posts | sort: "date" | reverse %}
   <ul>
