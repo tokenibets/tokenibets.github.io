@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 2025-11-06 predictions
+categories: [predictions] 
 ---
 
 ## November 5 — Bets & Rationale
