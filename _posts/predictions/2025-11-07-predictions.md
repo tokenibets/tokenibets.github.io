@@ -3,7 +3,7 @@
 layout: default
 title: 2025-11-07 predictions
 categories: [predictions]
--------------------------
+---
 
 ## November 7 — Bets & Rationale
 
