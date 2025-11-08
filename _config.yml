@@ -1,13 +1,8 @@
-title: Tokeni Bets
-description: "A bare-bones journal of analyses and predictions."
-baseurl: ""        # important for a user site: leave empty
-url: "https://tokenibets.github.io"
+title: TokeniBets
+url: https://tokenibets.github.io
+baseurl: ""
 
 markdown: kramdown
-timezone: America/New_York
-
-# Keep posts categorized by their subfolders under _posts
 permalink: /:categories/:year/:month/:day/:title/
-
-# Optional: site-wide font customization
-font_family: "Arial, Helvetica, sans-serif"
+timezone: America/New_York
+future: true   # ← keep on until you confirm posts appear
