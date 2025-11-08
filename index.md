@@ -6,7 +6,10 @@ permalink: /
 
 # Tokeni Bets
 
-A bare-bones journal.
+**PnL**
+Yesterday: 
+5-day total: 
+14-day total: 
 
 - [Analyses](/analyses/)
 - [Predictions](/predictions/)
