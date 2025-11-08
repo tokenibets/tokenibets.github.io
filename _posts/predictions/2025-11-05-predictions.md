@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2025-11-06 predictions
+title: 2025-11-05 predictions
 categories: [predictions] 
 ---
 
