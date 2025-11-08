@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Predictions
+permalink: /predictions/
 ---
 
 # Predictions
 
-{% assign posts_sorted = site.categories.predictions | sort: "date" | reverse %}
-{% if posts_sorted and posts_sorted.size > 0 %}
+{% assign posts = site.categories.predictions %}
+{% if posts and posts.size > 0 %}
+  {% assign posts_sorted = posts | sort: "date" | reverse %}
   {% for post in posts_sorted %}
 - <a class="post-link" href="{{ post.url | relative_url }}">{{ post.date | date: "%Y-%m-%d" }} — {{ post.title }}</a>
   {% endfor %}
