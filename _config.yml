@@ -8,3 +8,6 @@ timezone: America/New_York
 
 # Keep posts categorized by their subfolders under _posts
 permalink: /:categories/:year/:month/:day/:title/
+
+# Optional: site-wide font customization
+font_family: "Arial, Helvetica, sans-serif"
