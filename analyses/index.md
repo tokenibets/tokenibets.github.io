@@ -15,3 +15,5 @@ permalink: /analyses/
 {% else %}
 <p class="muted">No analyses yet.</p>
 {% endif %}
+
+<p class="muted">posts detected: {{ site.posts | size }}</p>
