@@ -6,7 +6,7 @@ permalink: /predictions/
 
 # Predictions
 
-{% assign posts = site.categories.prediction %}
+{% assign posts = site.categories.predictions %}
 {% if posts and posts.size > 0 %}
   {% assign posts_sorted = posts | sort: "date" | reverse %}
   <ul>
