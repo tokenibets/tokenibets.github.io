@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: 2025-11-08 predictions
+title: 2025-11-09 predictions
 categories: [predictions]
 ---
 
