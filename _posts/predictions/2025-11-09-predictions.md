@@ -3,7 +3,7 @@
 layout: default
 title: 2025-11-08 predictions
 categories: [predictions]
--------------------------
+---
 
 ## November 8 — Bets & Rationale
 
@@ -19,7 +19,7 @@ categories: [predictions]
 
 **Andrew Nembhard O25.5 PRA**
 
-*Played 33 minutes in his return; with Siakam, McConnell, Nesmith, and Toppin out, he projects as a primary creator vs. GSW and should see 30–35 minutes.*
+*Played 33 minutes in his return; with Siakam, McConnell, Nesmith, and Toppin out, he projects as the focal point of the Pacers vs. GSW and should see 30–35 minutes.*
 
 ---
 
@@ -29,24 +29,24 @@ categories: [predictions]
   *Averaging ~23 ppg; +187 looks soft for a 25+ outcome given role and shooting volume.*
 
 * **Jalen Brunson 25+ PTS (-140)**
-  *Rivalry feel suggests full four quarters; high-usage guard with endgame minutes equity.*
+  *Rivalry feel suggests full four quarters, where 25 points goes down easy like water.*
 
 ---
 
 ### Parlay 2 — 0.25u (+168)
 
 * **Payton Pritchard 3+ 3PM (-149)**
-  *Pressure to produce from deep with Simons pushing at PG; role = spot-up volume.*
+  *Pressure to produce from deep with Simons pushing for minutes.*
 
 * **Paolo Banchero 35+ PRA (-156)**
-  *Superstar expectations; rebounds + assists activity up as he drives winning possessions.*
+  *Superstar expectations; rebounds + assists activity up to show motor and grit.*
 
 ---
 
 ### Parlay 3 — 0.25u (+154)
 
 * **Ajay Mitchell 24+ PRA (-124)**
-  *Earned the start and trending up; versus an energized Memphis group after a statement win.*
+  *Earned the start and trending up; versus an energized Memphis group coming off of a strong win.*
 
 * **Jock Landale 1+ 3PM (-233)**
   *Letting 2–3 attempts fly (career-high 2.4 3PA, 54%); ball should swing to him with Aldama drawing extra closeouts.*
@@ -69,7 +69,7 @@ categories: [predictions]
   *Likely to see LaVine/DeRozan; athletic edge on the glass and mismatch opportunities versus a smaller frontcourt.*
 
 * **Zach LaVine U21.5 PTS (-108)**
-  *Recent deference to ball-dominant guards (e.g., Westbrook/Schroder usage context); downgraded scoring outlook vs. a plus defender in McDaniels.*
+  *Recent deference to ball-dominant guards (e.g., Westbrook, Schroder); downgraded scoring outlook vs. a plus defender in McDaniels.*
 
 ---
 
