@@ -15,6 +15,8 @@ The Lakers look poised to rebound after an embarrassing loss to Atlanta, with bo
 
 Still, Knueppel and Kalkbrenner project solidly even in blowout conditions. The Hornets’ staff has shown willingness to let Knueppel log 35–40 minutes regardless of margin, giving him strong PRA upside. On the other side, Lakers’ unders look sharp if they cruise through three quarters.
 
+Note: All bets and odds below are found through DraftKings, 2am ET Nov. 10th.
+
 ---
 
 ### Prop 1 — 5u (-113)
