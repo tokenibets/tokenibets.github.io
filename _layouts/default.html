@@ -10,16 +10,16 @@
     body {
       font-family: {{ page.font_family | default: site.font_family | default: "Arial, Helvetica, sans-serif" }};
       line-height: 1.6;
-      color: #111;
-      background: #a6d68e;
+      color: #e8efe9;              /* light text */
+      background: #0f1713;         /* dark green */
     }
     .wrap { max-width: var(--maxw); margin: 0 auto; padding: 24px 16px; text-align: left; }
-    a { color: #0366d6; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .muted { color: #233; font-size: .95em; }
+    a { color: #8fd3a8; text-decoration: none; }           /* mint link */
+    a:hover { text-decoration: underline; color: #b9e7c9; } /* brighter mint on hover */
+    .muted { color: #a3afa9; font-size: .95em; }            /* muted light gray-green */
     .post-link { display: block; padding: 6px 0; }
     .nav-prev-next { margin-top: 40px; display: flex; justify-content: space-between; }
-    hr { border: 0; border-top: 1px solid rgba(0,0,0,.1); margin: 24px 0; }
+    hr { border: 0; border-top: 1px solid rgba(255,255,255,.14); margin: 24px 0; }
     h1,h2,h3 { margin: 0.6em 0 0.4em; }
   </style>
 </head>
@@ -38,13 +38,7 @@
 
   <footer class="wrap muted">
     <hr>
-    <div style="display:flex;gap:.5rem;flex-wrap:wrap;align-items:center">
-      <span>© {{ "now" | date: "%Y" }} {{ site.title }}</span>
-      <span aria-hidden="true">·</span>
-      <span>For educational and entertainment purposes only. Not investment or gambling advice.</span>
-      <span aria-hidden="true">·</span>
-      <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer &amp; Terms</a>
-    </div>
+    <div>© {{ "now" | date: "%Y" }} {{ site.title }}</div>
   </footer>
 </body>
 </html>
