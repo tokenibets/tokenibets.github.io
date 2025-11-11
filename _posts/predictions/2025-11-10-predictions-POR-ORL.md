@@ -33,3 +33,8 @@ Correlation: Banchero’s facilitation → wing/scorer overs (Franz/Bane); Jrue 
 ---
 
 **Summary:** Leverage Banchero-as-hub plus 3PT mean reversion. Avdija points over anchors the ticket; Jrue 3s under is the glue.
+
+---
+
+*Tokeni*
+November 10, 2025
