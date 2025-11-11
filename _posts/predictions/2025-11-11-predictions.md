@@ -43,7 +43,7 @@ categories: [predictions]
 
 ### BOS vs PHI (PHI -2.5)
 
-*76ers lack the wing stoppers to hold Brown on points; expecting extreme 3FG volume from 76ers guards, leading to defensive rebounding opportunities (Pritchard and Minott). Simons and Derrick White look to swing-swing as 76ers guards close out heavily.*
+*76ers lack the wing stoppers to hold Brown on points; expecting extreme 3FG volume from 76ers guards, leading to defensive rebounding opportunities (Pritchard and Minott). Simons and Derrick White look to swing–swing as 76ers guards close out heavily.*
 
 #### Parlay 3 — 0.1u, 5pm DK (+2400)
 
@@ -69,7 +69,9 @@ categories: [predictions]
 
 ### IND vs UTA (IND -2.5)
 
-#### Parlay 5 — 5pm DK (+1000)
+*Nembhard looked fantastic upon return, though some shots didn’t fall; expecting a rebound performance. Ace’s shots look to be legit, and PRA looks enticing. Expect a huge performance by Siakam to keep the game script healthy.*
+
+#### Parlay 5 — **0.1u**, 5pm DK (+1000)
 
 * **Nembhard O 26.5 PRA**
 * **Bailey 25+ PRA**
