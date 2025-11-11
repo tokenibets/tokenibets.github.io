@@ -16,7 +16,12 @@ Projected one-possession game. Expect **Banchero** to lean facilitator on the ba
 
 ### Parlay 1 — 0.25u (+5000)
 
-**Banchero 7+ AST / Camara O 1.5 3s / Sharpe O 1.5 3s / Jrue U 2.5 3s / Avdija O 23.5 PTS / Bane O 17.5 PTS**
+**Banchero 7+ AST 
+Camara O 1.5 3s 
+Sharpe O 1.5 3s 
+Jrue U 2.5 3s 
+Avdija O 23.5 PTS 
+Bane O 17.5 PTS**
 
 Correlation: Banchero’s facilitation → wing/scorer overs (Franz/Bane); Jrue 3s under vs Black; Sharpe/Camara volume regression; Avdija carries Portland’s offense.
 
