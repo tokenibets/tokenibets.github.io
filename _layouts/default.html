@@ -21,13 +21,29 @@
     .nav-prev-next { margin-top: 40px; display: flex; justify-content: space-between; }
     hr { border: 0; border-top: 1px solid rgba(0,0,0,.1); margin: 24px 0; }
     h1,h2,h3 { margin: 0.6em 0 0.4em; }
+
+    /* ===== Added disclaimer banner styles ===== */
+    .disclaimer-banner{
+      position: sticky;
+      top: 0;
+      z-index: 9999;
+      padding: .6rem 1rem;
+      background: #fff8e1;
+      border-bottom: 1px solid rgba(0,0,0,.1);
+      font: 14px/1.4 system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+    }
+    .disclaimer-banner a { text-decoration: underline; }
+    /* ========================================= */
   </style>
 </head>
 <body>
+  <!-- ===== Added disclaimer banner markup ===== -->
   <div class="disclaimer-banner">
     <strong>Education only. Not investment or gambling advice.</strong>
-    Read the <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer & Terms</a>.
+    Read the <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer &amp; Terms</a>.
   </div>
+  <!-- ========================================= -->
+
   <header class="wrap">
     <nav>
       <a href="{{ '/' | relative_url }}">Tokeni Bets</a> ·
@@ -42,13 +58,7 @@
 
   <footer class="wrap muted">
     <hr>
-    <div style="display:flex;gap:.5rem;flex-wrap:wrap;align-items:center">
-      <span>© {{ "now" | date: "%Y" }} {{ site.title }}</span>
-      <span aria-hidden="true">·</span>
-      <span>For educational and entertainment purposes only. Not investment or gambling advice.</span>
-      <span aria-hidden="true">·</span>
-      <a href="{{ '/disclaimer/' | relative_url }}">Disclaimer & Terms</a>
-    </div>
+    <div>© {{ "now" | date: "%Y" }} {{ site.title }}</div>
   </footer>
 </body>
 </html>
