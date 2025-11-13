@@ -5,7 +5,7 @@ title: 2025-11-12 predictions
 categories: [predictions]
 ---
 
-## November 9 — Bets & Rationale
+## November 12 — Bets & Rationale
 
 ### CHA vs MIL (**MIL -2.5**)
 
