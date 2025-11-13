@@ -164,6 +164,10 @@ I believe that **Cooper Flagg** will have improved his playmaking skills; thus *
 
 **Parlay 2u; 8:30pm DK; +250**
 
+* **Flagg O 3.5 ast**
+* **Ryan Dunn O 12.5 PR**
+
+
 ---
 
 ### OKC vs LAL (**OKC -8.5**)
