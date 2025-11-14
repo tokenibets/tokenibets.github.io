@@ -5,7 +5,7 @@ categories: [predictions]
 ---
 
 
-### MIA vs NYK
+## MIA vs NYK
 
 Injuries to Bam/Herro as usual, Brunson out with ankle. NYK -6.0.
 
@@ -32,7 +32,7 @@ Powell can like score 4+ 3s this game. His O/U is at 2.5 3s; attacking this with
 
 **PROP 12u; -159; 6:30pm ET, DraftKings**
 
-*  **Norman Powell O 2.5 3s made **
+*  **Norman Powell O 2.5 3s made**
 
 
 
@@ -55,7 +55,7 @@ Powell can like score 4+ 3s this game. His O/U is at 2.5 3s; attacking this with
 
 
 
-### BKN vs ORL
+## BKN vs ORL
 
 ORL -14.5. Injuries to Cam Thomas and Banchero. 
 
@@ -68,6 +68,6 @@ Though I am reluctant to bet anything at all, all signs point to Demin being the
 
 **PROP 1u; +240; 6:45pm ET DraftKings**
 
-*  **Demin 3+ ast first quarter **
+*  **Demin 3+ ast first quarter**
 
 
