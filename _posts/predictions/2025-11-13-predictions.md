@@ -42,13 +42,13 @@ Taking 1+ 3s for Wade at -313 odds seems uncomfortable to stomach, but still sho
 
 
 
-# ATL vs UTA
+### ATL vs UTA
 
 **Prop bet; 30u; DraftKings 8:28pm ET; -130**
 
 *  **Ace Bailey 12+ points**
 
 
-# IND vs PHX
+### IND vs PHX
 
 * **no bets placed**
