@@ -14,6 +14,6 @@ permalink: /
 
 **PnL**
 
-* Yesterday: -6.84u
-* 5-day total: -11.01u
-* 14-day total: -10.76u
+* Yesterday: -3.07u
+* 5-day total: -6.94u
+* 14-day total: -7.69u
