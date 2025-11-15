@@ -87,4 +87,63 @@ Maxey is too talented the Pistons are without their top players. Paul Reed had a
 
 
 
+### POR vs HOU
+
+
+HOU -7.5. Healthy starters. 
+
+Without getting into the nitty gritty, this is a prime spot for Avidja to break out for 32+ points. This is because the Rockets, outside of Amen Thompson, do not have players with the lateral quickness and lower body strength to match Avdija as he goes downhill. POR has plenty of positional size, enough to match the Rockets. Sengun and Thompson will be expected to playmake, but I would put heavy trust on Jrue to lock up Amen the whole game. Given how both teams are looking to be playoff contenders, I would think Avidja gets 35+ minutes this game. Avdija PRA also looks nice as when he is doubled, he has the intellect and vision to pass to Clingan on the inside of Sharpe on the outside. 
+
+
+**PROP 5u; -114; 7:45pm ET DraftKings**
+
+*  **Avdija O 34.5 PRA**
+
+
+
+
+## CHA vs MIL
+
+Injuries: Kalkbrenner. MIL -9.5. 
+
+This will be likely a defining matchup for both the Hornets and the Bucks. Are the Hornets contenders with Kon and a healthy LaMelo? Is Giannis elite at the level where no team can stop him?
+
+I think that Kon should be able to have a monster game with LaMelo healthy. They are both players that benefits from each other, as they provide spacing and passing lanes for one another. With such synergy, and also the fact that Milwaukee’s guard/wing defense consists of Gary Trent AJ Green and Ryan Rollins, my thesis is further emboldened by this. 
+
+ 
+**PROP 3u; -109; 7:50pm ET DraftKings**
+
+*  **Knueppel O 24.5 PRA**
+
+
+
+
+
+## LAL vs NOP
+
+Derik Queen and Jeremiah Fears will both get 25+ minutes, and score 10+ points each. I think that markets will underprice LaRavia, though that is still TBD. And Rui first basket/first bucket will be in play. 
+
+
+**PROP; 1u; +1960; 7:55pm ET DraftKings**
+
+*  **Hachimura 3PFG– first scorer type**
+
+
+**PARLAY; 0.5u; +340; 7:55pm ET DraftKings**
+
+*  **Derik Queen 25+ PRA**
+*  **Jeremiah Fears 25+ PRA**
+
+
+
+
+## SAC vs MIN
+
+With both sides rather healthy, I think that Jaden McDaniels will dictate the outcome, tempering the scoring of both LaVine and DeRozan. Given that the Kings will miss against this tough defender, I would go over on Gobert rebounds as he will find more defensive rebounds off of misses. Another bet would be a monster performance on Sabonis. With so much on the line, and with the better defense on the other players, there is little chance that Sabonis puts up a stinker. 
+
+
+**PROP; 2u; -112; 8pm ET DraftKings**
+
+*  **Sabonis O 32.5 PRA**
+
 
