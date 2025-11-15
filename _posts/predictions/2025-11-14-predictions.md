@@ -87,7 +87,7 @@ Maxey is too talented the Pistons are without their top players. Paul Reed had a
 
 
 
-### POR vs HOU
+## POR vs HOU
 
 
 HOU -7.5. Healthy starters. 
