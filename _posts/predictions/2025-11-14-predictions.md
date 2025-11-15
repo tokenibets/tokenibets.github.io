@@ -71,3 +71,20 @@ Though I am reluctant to bet anything at all, all signs point to Demin being the
 *  **Demin 3+ ast first quarter**
 
 
+
+## PHI vs DET
+
+DET -1.5. Injuries Embiid/PG; Cade, Duren, Ausar, Tobias Harris, Marcus Sasser, Ivey
+
+I’m not sure why the moneyline and spread favor the Pistons when the 76ers lost to the Pistons by only 3, and that was when Cade played. Can Ron Holland and Caris LeVert really beat a talented 76ers backcourt of Maxey, Grimes, and Edgecombe? Duncan Robinson as their leading average scorer with 12ppg? 
+
+Maxey is too talented the Pistons are without their top players. Paul Reed had a monster game against the Bulls but his props are nowhere to be found. This is a rare game where I would simply bet ML instead of any prop, simply because I find the market to be outrageously wrong. 
+
+
+**ML 5u; -105; 7:10pm ET DraftKings**
+
+*  **76ers ML**
+
+
+
+
