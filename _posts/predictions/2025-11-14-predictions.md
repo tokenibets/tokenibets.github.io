@@ -147,3 +147,38 @@ With both sides rather healthy, I think that Jaden McDaniels will dictate the ou
 *  **Sabonis O 32.5 PRA**
 
 
+
+## LAC vs DAL
+
+Kawhi, Beal, PJ, AD out.
+
+In the past 5 games, Harden has put up 25/6/9 on about 43/40/93 shooting. Flagg on the other hand has averaged 16/7/4 on 43/29/74 shooting. If the Clippers want to win, then their best option is to put the ball in Harden’s hand and let him run the whole game. The Mavs on the other hand do not have a reliable facilitator– who will it be between Max Christie, D’Lo, or Naji Marshall?
+
+This game will go just iso back and forth, but I have strong reason to think that Flagg will struggle against John Collins. It may ultimately devolve into foul-baiting, however, with Flagg getting calls and letting him dominate. 
+
+Ultimately, I think that the safest theory to run with is to go over on Max Christie props, as he is showing flashes of huge potential on the offensive end. Even if it devolves into garbage time, Max will get minutes against Cam Christie, his own brother. 
+
+
+
+
+**PROP 5u; -119; 8:30pm ET DraftKings**
+
+*  **Cam Christie O 17.5 PRA**
+
+
+## GSW vs SAS
+
+I’ve been seeing Draymond hit the unders a lot recently, but matter of fact he is a very capable all-around player who just happened to miss a lot of shots in a bad game. Matter of fact, it’s very likely his numbers regress upwards and he makes several threes and a couple layups, making the PRA total a steal. With the projection for him to be making at least one three this game, O/U 19.5 PRA, assuming he gets 5ast, 5 reb, means he just needs to score 6 more points or just hustle a bit more. I think the Spurs will be none the wise and let Draymond shoot, whose reputation as a serviceable basketball player will either be kept or be broken in this critical juncture of NBA basketball. 
+
+
+**PROP; 5u; -104; 8:45pm ET DraftKings**
+
+*  **Draymond Green O 19.5 PRA**
+
+
+
+--- 
+
+*Tokeni*
+
+November 14th, 2025
