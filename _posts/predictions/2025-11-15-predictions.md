@@ -55,9 +55,9 @@ I think the Thunder will just game plan for shutting down Knueppel. But more imp
  
 
 
-**PROP; 2u; -118; 4:55pm ET DraftKings**
+**PROP; 2u; +145; 6:55pm ET DraftKings**
 
-*  **Santi Aldama O 2.5 assists**
+*  **Andrew Nembhard 3+ 3PT made**
 
 
 ## TOR vs IND
@@ -70,7 +70,7 @@ Nembhard, in having to carry the offensive load for the Pacers, will have to tak
 
 Thus I think taking the under on the Raptors scoring machine in RJ Barrett will also be a move as he struggles to get to the rim against an underrated Pacers defense, and also capitalizing on his hot streak of scoring which I think is bound to regress.
 
-**PROP; 2u; -118; 4:55pm ET DraftKings**
+**PROP; 0.5u; -120; 7:00pm ET DraftKings**
 
-*  **Santi Aldama O 2.5 assists**
+*  **RJ Barrett U 19.5 points**
 
