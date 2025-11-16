@@ -1,0 +1,8 @@
+title: TokeniBets
+url: https://tokenibets.github.io
+baseurl: ""
+
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+timezone: America/New_York
+future: true   
