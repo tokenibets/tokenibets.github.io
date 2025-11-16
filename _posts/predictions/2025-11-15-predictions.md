@@ -55,9 +55,9 @@ I think the Thunder will just game plan for shutting down Knueppel. But more imp
  
 
 
-**PROP; 2u; +145; 6:55pm ET DraftKings**
+**PROP; 2u; -118; 4:55pm ET DraftKings**
 
-*  **Andrew Nembhard 3+ 3PT made**
+*  **Santi Aldama O 2.5 assists**
 
 
 ## TOR vs IND
@@ -70,7 +70,67 @@ Nembhard, in having to carry the offensive load for the Pacers, will have to tak
 
 Thus I think taking the under on the Raptors scoring machine in RJ Barrett will also be a move as he struggles to get to the rim against an underrated Pacers defense, and also capitalizing on his hot streak of scoring which I think is bound to regress.
 
-**PROP; 0.5u; -120; 7:00pm ET DraftKings**
+**PROP; 2u; -118; 4:55pm ET DraftKings**
 
-*  **RJ Barrett U 19.5 points**
+*  **Santi Aldama O 2.5 assists**
+
+
+## LAL vs MIL (MIL -1.5)
+
+Injuries Rui, Smart, LeBron. 
+
+A marquee matchup between a powerhouse of the East with Giannis, and one of the most gifted players in Doncic. 
+
+According to several sources, it seems Bronny will be having the first start (or one of his first starts) of his NBA career, and against a sizeable team in the Bucks no less. The Bucks will have Rollins, AJ Green, Kuzma, Giannis, and Turner, essentially stacking 3PT shooters to space around Giannis. 
+
+Who guards Myles Turner will be the difficult question to anwer. LaRavia is 6’ 7” and 235, which is probably at the tail end of someone who can reliably contest a 3PT shot from a 7 foot center. 
+
+I think that when the rotations run thing, LaRavia can heat up and score 20+ points. This is reliant on his 3PT shooting however, though it has been historically above 38% for multiple seasons. 
+
+Given this, I think that taking the over on LaRavia points with a high confidence bet is play, as when he finds AJ Green or Rollins on defense, it will be a complete mismatch with his skillset and size. Furthermore, his under prop has been hitting a lot recently, likely lengthening the odds for his over.
+
+Luka will likely put up close to 40/12/10, while reaves can add on a solid 35/5/9. Because the Bucks will be so focused on shutting down this dynamic duo, I believe LaRavia will have a strong runway to explode. Bronny, if his defensive props are undervalued, strikes me as a someone who can leave the game with 3+ steals. 
+
+
+
+**PROP; 0.1u; +1320; 7:50 DraftKings**
+
+*  **LaRavia 20+ points**
+
+**PROP; 5u; -128; 7:50 DraftKings**
+
+*  **LaRavia O 9.5 points**
+
+**PROP; 0.25; +537; 7:50 DraftKings**
+
+*  **Bronny James 20+ PRA**
+
+
+
+
+## DEN vs MIN
+
+Injuries to Braun, Cam Johnson. 
+
+ I think that Jokic will have a difficult day against the defensive size of the Timberwolves, with Gobert, Reid, and Randle all having some capabilities to hold their own. Without two of his top targets off of double-team reads, it will be difficult for the Nuggets to put up huge scoring runs. Additionally, the undervalued talent of McDaniels – who can guard 1-4 – will put up a strong performance against Murray, THJ, or AG. 
+
+Though it is possible that THJ or Murray somehow catch fire even on tough contested 3PT attempts, the show will have to run through Jokic drawing fouls and getting to the line. 
+
+Rebounds remain a question as Jokic and Gobert/Reid/Randle will be glued under the basket in the box-out game. Whether Murray or Gordon can do it, I would give the edge to Gordon, who can likely notch a double double this game. I also think that Randle will be one of the players to benefit most in terms of defensive rebounding off of missed 3PT attempts in the absence of Cam Johnson and Christian Bruan
+
+
+**PROP; 0.25u; +930; 7:55pm Draftkings**
+
+*  **Aaron Gordon double-double**
+
+**PROP; 1u; +109; 7:55pm Draftkings**
+
+*  **Julius Randle O 7.5 reb**
+
+
+--- 
+
+*Tokeni*
+
+November 15, 2025
 
